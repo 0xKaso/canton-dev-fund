@@ -82,7 +82,7 @@ A Canton-specific technical model will be built using the corpus.
 
 The model will be based on mature open-source models with domain adaptation and technical Q&A optimization.
 
-The primary goal is to improve accuracy for Canton technical questions rather than general-purpose capabilities.
+The primary goal is to ensure the up-to-the-minute accuracy of Canton technical responses, prioritizing real-time relevance over general-purpose capabilities.
 
 ---
 
